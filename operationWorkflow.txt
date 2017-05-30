@@ -1,0 +1,15 @@
+0 (currentValue)
+78 (first entry)
++  (first keypress) : (currentValue = first entry); opType = 1
+89 (second entry)
+
+
+= (output) :  (userInput = second entry); Switch case opType = 1;(currentValue = currentValue + second entry); opType = 0;
+
++ (continue) : (userInput = second entry); Switch case opType = 1;(currentValue = currentValue + second entry); opType = 1
+
+- (continue) : (userInput = second entry); Switch case opType = 1;(currentValue = currentValue + second entry); opType = 2
+
+* (continue) : (userInput = second entry); Switch case opType = 1;(currentValue = currentValue + second entry); opType = 3
+
+/ (continue) : (userInput = second entry); Switch case opType = 1;(currentValue = currentValue + second entry); opType = 4

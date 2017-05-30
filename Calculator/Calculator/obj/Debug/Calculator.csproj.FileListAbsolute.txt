@@ -1,0 +1,9 @@
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\jsirk\Dropbox\GB Files\C#\BlindGuardian\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
